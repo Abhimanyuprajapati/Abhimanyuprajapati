@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhimanyu Prajapati
 
-I'm a **Frontend-Focused Full Stack Developer** passionate about building modern, user-friendly web applications using the **MERN stack**. I love clean UI, scalable architecture, and solving real-world problems with code.
+I'm a **Full Stack Developer** passionate about building modern, user-friendly web applications using the **MERN stack**. I love clean UI, scalable architecture, and solving real-world problems with code.
 
 ---
 
