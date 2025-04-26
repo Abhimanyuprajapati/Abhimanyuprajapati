@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** passionate about building modern, user-friendly w
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| Entrust 2.0 | React | A feature-rich case management app for US clients with RBAC, invoices, and secure file sharing |
+| Entrust 2.0 and NextWave | React | A feature-rich case management app for US clients with RBAC, invoices, and secure file sharing |
 | Moovi | React, Firebase | A streaming platform for movies and shows with custom UI |
 | Hunt Cinema | React, REST APIs | A media content platform with category-based filtering |
 
