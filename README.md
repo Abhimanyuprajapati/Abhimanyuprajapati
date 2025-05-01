@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** passionate about building modern, user-friendly w
 
 ## 💼 About Me
 
-- 🔧 Worked at Neural IT Pvt. Ltd., where I built the frontend architecture of modern web applications like Entrust 2.0 and NextWave, delivering key features such as:
+- 🔧 Worked at **Neural IT Pvt. Ltd.**, where I built the frontend architecture of modern web applications like **Entrust 2.0** and **NextWave**, delivering key features such as:
   - 🛡️ Role-Based Access Control (RBAC)
   - 👤 Masquerade Login for Admins
   - 💳 Auto-Swipe Billing System
