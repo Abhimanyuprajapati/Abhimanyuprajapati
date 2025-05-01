@@ -70,6 +70,7 @@ I'm a **Full Stack Developer** passionate about building modern, user-friendly w
 - LinkedIn: https://www.linkedin.com/in/abhimanyu-prajapati-84b677215/
 - Email: prajapatiabhimanyu18@gmail.com
 - GitHub: [github.com/Abhimanyuprajapati](https://github.com/Abhimanyuprajapati)
+- Resume: https://abhimanyuprajapati01.netlify.app/
 
 ---
 
