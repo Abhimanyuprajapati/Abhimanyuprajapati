@@ -6,7 +6,11 @@ I'm a **Full Stack Developer** passionate about building modern, user-friendly w
 
 ## 💼 About Me
 
-- 🔧 Worked at **Neural IT Pvt. Ltd.**, where I built the frontend architecture of modern web applications like **Entrust 2.0** and **NextWave**, delivering key features such as:
+### 🔧 Neural IT Pvt. Ltd.
+
+At **Neural IT Pvt. Ltd.**, I contributed to building and optimizing frontend architectures for enterprise-grade web applications, including:
+
+- 🔗 [**Entrust 2.0**](https://entrustv2.neuralit.com/) – A powerful platform featuring:
   - 🛡️ Role-Based Access Control (RBAC)
   - 👤 Masquerade Login for Admins
   - 💳 Auto-Swipe Billing System
@@ -14,6 +18,11 @@ I'm a **Full Stack Developer** passionate about building modern, user-friendly w
   - 📦 Prepaid & Postpaid Flow
   - 📨 Sharebox for Secure File Sharing
   - 📄 Invoice Generation
+
+- 🔗 [**NextWave**](https://v2.nextwave.world/) – A dynamic web solution built with a focus on scalability, performance, and user-centric design.
+
+These projects demonstrate my experience with scalable frontend architecture, complex state management, and seamless integration with backend APIs.
+
 
 - 🏢 Previously at **Tush Entertainments Pvt. Ltd.**, where I developed web apps like:
   - 🎬 [moovi.app](https://moovi.app)
